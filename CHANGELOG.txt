@@ -1,0 +1,48 @@
+23-Jun-2020: CMP Vanilla v0.4
+- Tested with OXCE v5.6.3
+- Tested with OXC git master 2020-06-14-2342
+- Removed TFTD content, terrains and maps
+- Removed CMP/IDT Improved Globe
+- Terrains by bulletdesigner
+	- Ghothic Grass
+	- Ghothic Snow
+	- Ghothic Sand
+	- Mountains Wasteland
+	- Mountains Snow
+	- Mountains Mud
+	- Mountains Grass
+	- Mountains Sand
+	- Mountains Rocks
+	- Mountains Tropical
+	- Plains Wasteland
+	- Plains Snow
+	- Plains Mud
+	- Plains Grass
+	- Plains Sand
+	- Plains Rocks
+	- Plains Tropical
+	- Refinery
+	- Broken Ice
+- Terrains by Dioxine
+	- Chemical Town (temporarily removed from rulesets, terrain and maps still present)
+	- Commercial
+	- Industrial Slums
+	- Rural Village (with Solarius Scorch)
+	- Island
+	- Port
+- Terrains by hellrazor
+	- Expanded Urban 
+	- Expanded Alien Base
+- Terrains by IDT - luke83 & efrenespartano
+	- Airport
+	- Rice Farm
+	- Rural Settlement
+	- Rural Snow Settlement
+	- Rural Forest
+	- Rural Snow Forest
+- Terrains by Solarius Scorch, with maps by Civilian and Finnik:
+	- Forest
+	- Forest Swamp
+	- Forest Snow
+	- Forest Swamp Snow
+	- Rural Village (with Dioxine)
