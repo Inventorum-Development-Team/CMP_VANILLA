@@ -230,10 +230,10 @@ mapScripts:
       executions: 2
     - type: addBlock
       executions: 2
-      groups: 4
+#      groups: 4
     - type: addBlock
       executions: 2
-      groups: 5
+#      groups: 5
     - type: addBlock
       executions: 2
     - type: fillArea
@@ -426,10 +426,6 @@ mapScripts:
         - [1, 1, 1, 4]
     - type: addCraft
     - type: addUFO
-      size: 1
-      executions: 1
-      executionChances: 100
-      UFOName: STR_CONST_UFO
     - type: addBlock
       size: 2
       executions: 4
