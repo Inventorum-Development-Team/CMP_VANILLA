@@ -42,7 +42,9 @@ globe:
     - id: 1
       terrain:
         - name: CULTA
-          weight: 20
+          weight: 10
+        - name: IDT_RED_FARM
+          weight: 10
         - name: RICE_FARM
           weight: 10
         - name: PLAINSTROP
@@ -93,7 +95,7 @@ globe:
           weight: 30
     - id: 4
       terrain:
-        - name: CULTA
+        - name: IDT_RED_FARM
           area: [0, 360, -90, 0]
           weight: 50
         - name: PLAINSGRASS
@@ -210,3 +212,12 @@ globe:
     - id: -1
       deployments:
         STR_TERROR_MISSION: 100
+
+extraSprites:
+   - type: TEXTURE.DAT
+     width: 416
+     height: 96
+     subX: 32
+     subY: 32
+     files:
+       0: Resources/Globe/REACH_TEXTURES.png

@@ -10,6 +10,10 @@ terrains:
       - PORT01_UFO
       - PORT02_UFO
       - PORT05_UFO
+      - IDT_AIRPORT_CRISTAL_WALLS
+      - MILITARY_BARRICADES
+      - MISSILES_1
+      - MISSILES_2
     mapBlocks: &AIRPORT_MAPBLOCKS
       - name: AIRBASE00
         width: 10
@@ -92,6 +96,12 @@ terrains:
         width: 10
         length: 10
         groups: 4
+      - name: AIRBASE30
+        width: 10
+        length: 10
+      - name: AIRBASE31
+        width: 10
+        length: 10
 
   - name: RICE_FARM # by IDT - Luke83
     script: RICE_FARM_SCRIPT
@@ -171,6 +181,83 @@ terrains:
         width: 10
         length: 10
         # groups: 2 # rice
+
+  - name: IDT_RED_FARM
+    script: FARM_RED
+    mapDataSets:
+      - BLANKS
+      - IDT_CULTIVAT_RED
+      - IDT_BARN_RED
+      - IDT_FARM_RED
+      - IDT_ROOF_RED
+      - SOL_SILO_PLAIN
+    mapBlocks:
+      - name: CULTARED00 # grass, flat LZ
+        width: 10
+        length: 10
+        groups: 1
+      - name: CULTARED01 # grass, flat white fence
+        width: 10
+        length: 10
+      - name: CULTARED02 # grass, random stone walls
+        width: 10
+        length: 10
+      - name: CULTARED03 # grass, small garden
+        width: 10
+        length: 10
+      - name: CULTARED04 # grass, bushes wall
+        width: 10
+        length: 10
+      - name: CULTARED05 # cornfield, fence N-S
+        width: 10
+        length: 10
+      - name: CULTARED06 # cornfield, no fence W-E
+        width: 10
+        length: 10
+      - name: CULTARED07 # tall grass, LZ
+        width: 10
+        length: 10
+        groups: 1
+      - name: CULTARED08 # carrot field, fence
+        width: 10
+        length: 10
+      - name: CULTARED09 # radish field, fence
+        width: 10
+        length: 10
+      - name: CULTARED10 # cornfield, new grown fence
+        width: 10
+        length: 10
+      - name: CULTARED11 # dirt, dead grass LZ
+        width: 10
+        length: 10
+        groups: 1
+      - name: CULTARED12 # dirt, corral
+        width: 10
+        length: 10
+      - name: CULTARED13 # grass, small trees
+        width: 10
+        length: 10
+      - name: CULTARED14 # tall grass, small trees
+        width: 10
+        length: 10
+      - name: CULTARED15 # cornfield, dried & bales fence
+        width: 10
+        length: 10
+      - name: CULTARED16 # grass barn, small bales
+        width: 10
+        length: 10
+      - name: CULTARED17 # dirt, workshop
+        width: 10
+        length: 10
+      - name: CULTARED18 # stone, small house
+        width: 10
+        length: 10
+      - name: CULTARED19 # grass, barn small, furniture & corral
+        width: 10
+        length: 10
+      - name: SOL_SILO20 # grass, 2 silos, stone walls
+        width: 10
+        length: 10
 
   - name: EXPANDED_TERROR #Thanks to HellRazor
     mapDataSets:

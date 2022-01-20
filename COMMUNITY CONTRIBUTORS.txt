@@ -1,4 +1,4 @@
-The following people donated assets, thankyou for your contributions :)
+The following people donated assets, thank you for your contributions :)
 
 
 MAPSETS:
@@ -24,10 +24,11 @@ MAPSETS:
 *Forest Swamp: Solarius Scorch
 *Forest Snow: Solarius Scorch
 *Forest Swamp Snow: Solarius Scorch
+*Corn Farm: Efrenespartano, Solarius Scorch & Luke83
  
 
 OTHER ASSETS:
 *SEVERAL TFTD - UFO TERRAIN CONVERSIONS - Luke83, Dioxine, Solarius Scorch
 *Improved regions and cities data - hellrazor
 *Expanded Countries and Borders : Solarius Scorch
-
+*Corn Farm tiles: Scarecrow by Michael J Pierce @ IsometricRobot.com, carrots and radishes by pixel32 
